@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D950D0441E083B15003991E1 /* costPerClick(CPC)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950D0431E083B15003991E1 /* costPerClick(CPC)ViewController.swift */; };
+		D950D0801E084E88003991E1 /* impressionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950D07F1E084E88003991E1 /* impressionsViewController.swift */; };
+		D9570E3A1E0A494F0084178E /* estimatedConversionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9570E391E0A494F0084178E /* estimatedConversionsViewController.swift */; };
+		D97D45AA1E0AE2A4005826EF /* ROASViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97D45A91E0AE2A4005826EF /* ROASViewController.swift */; };
+		D97D45AC1E0AE505005826EF /* ROIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97D45AB1E0AE505005826EF /* ROIViewController.swift */; };
 		D9A0D81D1E078C53005CF2DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A0D81C1E078C53005CF2DE /* AppDelegate.swift */; };
 		D9A0D81F1E078C53005CF2DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A0D81E1E078C53005CF2DE /* ViewController.swift */; };
 		D9A0D8221E078C53005CF2DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9A0D8201E078C53005CF2DE /* Main.storyboard */; };
@@ -14,6 +19,18 @@
 		D9A0D8271E078C53005CF2DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9A0D8251E078C53005CF2DE /* LaunchScreen.storyboard */; };
 		D9A0D8321E078C53005CF2DE /* SEM_CalculatorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A0D8311E078C53005CF2DE /* SEM_CalculatorsTests.swift */; };
 		D9A0D83D1E078C53005CF2DE /* SEM_CalculatorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A0D83C1E078C53005CF2DE /* SEM_CalculatorsUITests.swift */; };
+		D9A0D84B1E078FCF005CF2DE /* costPerThousandImpressions(CPM)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A0D84A1E078FCF005CF2DE /* costPerThousandImpressions(CPM)ViewController.swift */; };
+		D9AFB1D61E0AC31400050C32 /* conversionRateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AFB1D51E0AC31400050C32 /* conversionRateViewController.swift */; };
+		D9AFB1D81E0AC74300050C32 /* efficiency%ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AFB1D71E0AC74300050C32 /* efficiency%ViewController.swift */; };
+		D9AFB1DA1E0ACAA100050C32 /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AFB1D91E0ACAA100050C32 /* webViewController.swift */; };
+		D9AFB1DC1E0ACFC500050C32 /* campaignCompleteToDateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9AFB1DB1E0ACFC500050C32 /* campaignCompleteToDateViewController.swift */; };
+		D9C2AB7E1E08880D0097BD14 /* costPerAcquisition(CPA)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C2AB7D1E08880D0097BD14 /* costPerAcquisition(CPA)ViewController.swift */; };
+		D9C2AB801E0893F70097BD14 /* estimatedClickViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C2AB7F1E0893F70097BD14 /* estimatedClickViewController.swift */; };
+		D9DD6A8B1E0A34FE0013C822 /* estimatedClicks(CPM)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DD6A8A1E0A34FE0013C822 /* estimatedClicks(CPM)ViewController.swift */; };
+		D9FD0C311E085CAC00FE059C /* costViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FD0C301E085CAC00FE059C /* costViewController.swift */; };
+		D9FD0C331E08669D00FE059C /* clickThruRate%ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FD0C321E08669D00FE059C /* clickThruRate%ViewController.swift */; };
+		D9FD0C351E08736000FE059C /* effectiveCostPerThousandImpressions(ECPM)ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FD0C341E08736000FE059C /* effectiveCostPerThousandImpressions(ECPM)ViewController.swift */; };
+		D9FD0C391E087C4C00FE059C /* ECPCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FD0C381E087C4C00FE059C /* ECPCViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +51,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D950D0431E083B15003991E1 /* costPerClick(CPC)ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "costPerClick(CPC)ViewController.swift"; sourceTree = "<group>"; };
+		D950D07F1E084E88003991E1 /* impressionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = impressionsViewController.swift; sourceTree = "<group>"; };
+		D9570E391E0A494F0084178E /* estimatedConversionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = estimatedConversionsViewController.swift; sourceTree = "<group>"; };
+		D97D45A91E0AE2A4005826EF /* ROASViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ROASViewController.swift; sourceTree = "<group>"; };
+		D97D45AB1E0AE505005826EF /* ROIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ROIViewController.swift; sourceTree = "<group>"; };
 		D9A0D8191E078C52005CF2DE /* SEM Calculators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SEM Calculators.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A0D81C1E078C53005CF2DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9A0D81E1E078C53005CF2DE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +69,18 @@
 		D9A0D8381E078C53005CF2DE /* SEM CalculatorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SEM CalculatorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A0D83C1E078C53005CF2DE /* SEM_CalculatorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SEM_CalculatorsUITests.swift; sourceTree = "<group>"; };
 		D9A0D83E1E078C53005CF2DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9A0D84A1E078FCF005CF2DE /* costPerThousandImpressions(CPM)ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "costPerThousandImpressions(CPM)ViewController.swift"; sourceTree = "<group>"; };
+		D9AFB1D51E0AC31400050C32 /* conversionRateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = conversionRateViewController.swift; sourceTree = "<group>"; };
+		D9AFB1D71E0AC74300050C32 /* efficiency%ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "efficiency%ViewController.swift"; sourceTree = "<group>"; };
+		D9AFB1D91E0ACAA100050C32 /* webViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
+		D9AFB1DB1E0ACFC500050C32 /* campaignCompleteToDateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = campaignCompleteToDateViewController.swift; sourceTree = "<group>"; };
+		D9C2AB7D1E08880D0097BD14 /* costPerAcquisition(CPA)ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "costPerAcquisition(CPA)ViewController.swift"; sourceTree = "<group>"; };
+		D9C2AB7F1E0893F70097BD14 /* estimatedClickViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = estimatedClickViewController.swift; sourceTree = "<group>"; };
+		D9DD6A8A1E0A34FE0013C822 /* estimatedClicks(CPM)ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "estimatedClicks(CPM)ViewController.swift"; path = "../estimatedClicks(CPM)ViewController.swift"; sourceTree = "<group>"; };
+		D9FD0C301E085CAC00FE059C /* costViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = costViewController.swift; sourceTree = "<group>"; };
+		D9FD0C321E08669D00FE059C /* clickThruRate%ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "clickThruRate%ViewController.swift"; sourceTree = "<group>"; };
+		D9FD0C341E08736000FE059C /* effectiveCostPerThousandImpressions(ECPM)ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "effectiveCostPerThousandImpressions(ECPM)ViewController.swift"; sourceTree = "<group>"; };
+		D9FD0C381E087C4C00FE059C /* ECPCViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ECPCViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +134,23 @@
 				D9A0D81C1E078C53005CF2DE /* AppDelegate.swift */,
 				D9A0D81E1E078C53005CF2DE /* ViewController.swift */,
 				D9A0D8201E078C53005CF2DE /* Main.storyboard */,
+				D97D45AB1E0AE505005826EF /* ROIViewController.swift */,
+				D97D45A91E0AE2A4005826EF /* ROASViewController.swift */,
+				D9AFB1DB1E0ACFC500050C32 /* campaignCompleteToDateViewController.swift */,
+				D9AFB1D71E0AC74300050C32 /* efficiency%ViewController.swift */,
+				D9AFB1D51E0AC31400050C32 /* conversionRateViewController.swift */,
+				D9570E391E0A494F0084178E /* estimatedConversionsViewController.swift */,
+				D9DD6A8A1E0A34FE0013C822 /* estimatedClicks(CPM)ViewController.swift */,
+				D9C2AB7F1E0893F70097BD14 /* estimatedClickViewController.swift */,
+				D9C2AB7D1E08880D0097BD14 /* costPerAcquisition(CPA)ViewController.swift */,
+				D9FD0C381E087C4C00FE059C /* ECPCViewController.swift */,
+				D9FD0C341E08736000FE059C /* effectiveCostPerThousandImpressions(ECPM)ViewController.swift */,
+				D9FD0C321E08669D00FE059C /* clickThruRate%ViewController.swift */,
+				D9FD0C301E085CAC00FE059C /* costViewController.swift */,
+				D950D07F1E084E88003991E1 /* impressionsViewController.swift */,
+				D950D0431E083B15003991E1 /* costPerClick(CPC)ViewController.swift */,
+				D9A0D84A1E078FCF005CF2DE /* costPerThousandImpressions(CPM)ViewController.swift */,
+				D9AFB1D91E0ACAA100050C32 /* webViewController.swift */,
 				D9A0D8231E078C53005CF2DE /* Assets.xcassets */,
 				D9A0D8251E078C53005CF2DE /* LaunchScreen.storyboard */,
 				D9A0D8281E078C53005CF2DE /* Info.plist */,
@@ -262,8 +313,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9DD6A8B1E0A34FE0013C822 /* estimatedClicks(CPM)ViewController.swift in Sources */,
+				D9AFB1D81E0AC74300050C32 /* efficiency%ViewController.swift in Sources */,
+				D9FD0C351E08736000FE059C /* effectiveCostPerThousandImpressions(ECPM)ViewController.swift in Sources */,
+				D9AFB1D61E0AC31400050C32 /* conversionRateViewController.swift in Sources */,
+				D950D0441E083B15003991E1 /* costPerClick(CPC)ViewController.swift in Sources */,
+				D9C2AB801E0893F70097BD14 /* estimatedClickViewController.swift in Sources */,
+				D9A0D84B1E078FCF005CF2DE /* costPerThousandImpressions(CPM)ViewController.swift in Sources */,
+				D97D45AA1E0AE2A4005826EF /* ROASViewController.swift in Sources */,
+				D9570E3A1E0A494F0084178E /* estimatedConversionsViewController.swift in Sources */,
+				D9C2AB7E1E08880D0097BD14 /* costPerAcquisition(CPA)ViewController.swift in Sources */,
+				D9FD0C331E08669D00FE059C /* clickThruRate%ViewController.swift in Sources */,
 				D9A0D81F1E078C53005CF2DE /* ViewController.swift in Sources */,
+				D9FD0C311E085CAC00FE059C /* costViewController.swift in Sources */,
+				D950D0801E084E88003991E1 /* impressionsViewController.swift in Sources */,
+				D9AFB1DC1E0ACFC500050C32 /* campaignCompleteToDateViewController.swift in Sources */,
+				D9FD0C391E087C4C00FE059C /* ECPCViewController.swift in Sources */,
+				D97D45AC1E0AE505005826EF /* ROIViewController.swift in Sources */,
 				D9A0D81D1E078C53005CF2DE /* AppDelegate.swift in Sources */,
+				D9AFB1DA1E0ACAA100050C32 /* webViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +582,7 @@
 				D9A0D8431E078C53005CF2DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D9A0D8441E078C53005CF2DE /* Build configuration list for PBXNativeTarget "SEM CalculatorsTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +591,7 @@
 				D9A0D8461E078C53005CF2DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D9A0D8471E078C53005CF2DE /* Build configuration list for PBXNativeTarget "SEM CalculatorsUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +600,7 @@
 				D9A0D8491E078C53005CF2DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
